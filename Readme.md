@@ -47,10 +47,11 @@ To build a hybrid AI model that combines **text data** and **numeric financial f
 ---
 
 ##  Author
-**Sahitya Pandey**
-**Roll No 202210101150080**
-**Aditya Kumar**
-**Roll No 202210101150069**
+**Sahitya Pandey**  
+ Roll No: *202210101150080*  
+
+**Aditya Kumar**  
+ Roll No: *202210101150069*  
 B.Tech (Computer Science) — Semester 7  
 📘 Project Title: *Financial Personality Classification using Deep Learning and NLP*
 
